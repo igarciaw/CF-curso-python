@@ -1,6 +1,4 @@
-# repaso python
-Apuntes y recursos 
+Recursos de aprendizaje:
 
-Enlaces de aprendizaje
-https://codigofacilito.com/cursos/python-profesional
-https://www.w3schools.com/python/
+- https://codigofacilito.com/cursos/python-profesional
+- https://www.w3schools.com/python/
